@@ -101,7 +101,7 @@
 
     /* ========== NAVIGATION ========== */
 
-    
+
     .navbar {
       position: fixed;
       top: 0;
@@ -123,6 +123,7 @@
       height: 70px;
     }
 
+    
     .logo {
       font-size: 1.5rem;
       font-weight: 700;
