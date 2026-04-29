@@ -93,7 +93,7 @@
       transition: background-color 0.3s ease, color 0.3s ease;
     }
 
-    
+
     .btn:hover {
       background-color: transparent;
       color: #c9a84c;
@@ -101,6 +101,7 @@
 
     /* ========== NAVIGATION ========== */
 
+    
     .navbar {
       position: fixed;
       top: 0;
